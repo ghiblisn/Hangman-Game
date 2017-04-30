@@ -1,0 +1,16 @@
+.textCenter{
+	text-align: center;
+}
+.contentArea{
+	border-width: 2px;
+	border-style: dotted;
+	border-color: darkgray;
+	padding:2%;
+	margin:1%;
+}
+.page-header{
+	font-family: 'Russo One', sans-serif;
+}
+.subHeader{
+	font-family: 'Rationale', sans-serif;
+}
